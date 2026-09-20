@@ -1,0 +1,15 @@
+Package: webctl
+Version: 0.1.0
+Architecture: amd64
+Maintainer: Kyle Wild <kyle@kylewild.com>
+Installed-Size: 10576
+Filename: pool/main/w/webctl/webctl_0.1.0_amd64.deb
+Size: 4401662
+MD5sum: 351d3852fe6734614e54b9b6c0418f36
+SHA1: c234598b0f82fa80d23bb5f0cdb3adac74fdaae6
+SHA256: 3df67cdf6edff0522cf3ec99df74c2c460d7710b8f3a4d347474e7ece3420d33
+Section: utils
+Priority: optional
+Homepage: https://github.com/dorkitude/webctl
+Description: Smart web search CLI for agents, backed by Jev. Saves a lot of tokens.
+
